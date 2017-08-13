@@ -4,6 +4,8 @@
 集成百度文字识别 API SDK 的 React Native 模块，支持 Android 和 iOS 平台。百度的文字识别 API 须付费使用，但是**开发者文档很不友好，所以不推荐用它的 OCR 服务**。本项目主要目的是练习打包 RN 的原生模块，也就无所谓地狱模式了。
 
 ### [README_en](./README_en.md)
+### 打包教程：[React Native 原生模块库打包指南](https://chasecs.github.io/2017/08/09/react_native_packing_native_module_for_android_n_ios.html)
+
 ## 安装
 
 `$ npm install react-native-baidu-ocr --save`
